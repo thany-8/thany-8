@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @thany-8
-- 👀 I’m interested in learning Web development.
-- 🌱 I’m currently learning html.
-- 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me ttatisbatista@gmail.com
+Hi there, I'm Tania Tatis! 👋
+
+💻 Computer Science Student @ College of Marin
+🌟 Aspiring Software Engineer
+🌱 Currently mastering C++ 
+🤝 Open to collaboration on projects and research internships
+🎯 Passionate about problem-solving, teamwork, and continuous learning
+📫 Reach me at: ttatisbatista@gmail.com
 
 <!---
 thany-8/thany-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
