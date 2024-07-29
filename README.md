@@ -1,6 +1,6 @@
 Hi there, I'm Tania Tatis! 👋
 
-💻 Computer Science Student @ College of Marin
+💻 Computer Science Student @ College of Marin \n
 🌟 Aspiring Software Engineer
 🌱 Currently mastering C++ 
 🤝 Open to collaboration on projects and research internships
