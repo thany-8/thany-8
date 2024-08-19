@@ -1,6 +1,6 @@
 Hi there, I'm Tania Tatis! 👋
 
-💻 Computer Science Student @ College of Marin \n
+💻 Computer Science Student @ College of Marin 
 
 🌟 Software Engineer
 
