@@ -1,10 +1,10 @@
 Hi there, I'm Tania Tatis! 👋
 
-💻 Computer Science Student @ College of Marin 
+💻 Computer Science Student @ San Francisco State University
 
-🌟 Software Engineer
+🌟 Software Engineer 
 
-🌱 Currently mastering C++ 
+🌱 Currently mastering Python/C++ 
 
 🤝 Open to collaboration on projects and research internships
 
